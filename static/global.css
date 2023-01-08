@@ -8,10 +8,6 @@ body {
 	font-family: Tahoma, sans-serif;
 }
 
-#svelte {
-	height: 100%;
-}
-
 a, a:hover, a:visited {
 	color: inherit;
 	text-decoration: initial;
