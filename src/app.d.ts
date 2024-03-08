@@ -1,2 +1,6 @@
-declare namespace App {
+declare global {
+	namespace App {
+	}
 }
+
+export {};

@@ -8,4 +8,4 @@ npx degit davidcallanan/sveltekit-template app
 
 You need [npm](https://npmjs.com/) to run the above command.
 
-Run `npm i` and `npm run dev` to start the development server.
+Run `npm i -g pnpm`, `pnpm i` and `pnpm run dev` to start the development server.
